@@ -1,15 +1,1 @@
-body {
-    background-color: rgb(94, 65, 223);
-}
-footer {
-    background-color: black;
-    color:rgb(194, 149, 149);
-    position:fixed;
-    bottom:0%;
-    width:100%;
-}
-footer p{
-    text-align:center;
-    font-size:0.6rem;
-    margin-top: 0,5rem;
-}
+
